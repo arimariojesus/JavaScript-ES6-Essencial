@@ -17,7 +17,7 @@ var myString = new String("coral");
 // Objetos personalizados
 var myCar = {marca: "Honda", modelo: "Accord", ano: 1998};
 "marca" in myCar;       // retorna true
-"modelo" in myCar:      // retorna true
+"modelo" in myCar;      // retorna true
 
 // instanceof
 objeto instanceof tipoObjeto
